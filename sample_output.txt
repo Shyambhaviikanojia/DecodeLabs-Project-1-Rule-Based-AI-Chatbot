@@ -1,0 +1,78 @@
+========================================
+      Ctrl + Alt + Rest
+     Rule-Based AI Chatbot
+========================================
+Enter your name: Shyambhavi
+Favourite subject: python
+
+Hello Shyambhavi!
+Your favourite subject is python.
+Type 'help' for commands.
+
+You: help
+
+Available Commands:
+1. hello / hi
+2. stressed
+3. tired
+4. good
+5. plan
+6. break
+7. motivate
+8. challenge
+9. streak
+10. tip
+11. focus
+12. progress
+13. mood
+14. about
+15. help
+Type 'exit' to leave.
+
+You: hi
+Hello Shyambhavi! Hope your study is going well.
+
+You: stressed
+Take one topic at a time.
+Type 'break' if you need rest.
+
+You: tired
+Take some rest, drink water and come back refreshed.
+
+You: plan
+Days left for exam: 8
+Learn new topics and revise regularly.
+
+You: motivate
+Small progress leads to big results!
+
+You: challenge
+Revise one difficult topic!
+
+You: streak
+Your study streak (days): 15
+🔥 Your streak is 15 days!
+
+You: progress
+Syllabus completed (%): 80
+Excellent! Focus on revision!
+
+You: mood
+How are you feeling? good
+That's great! Keep your positive energy!
+
+You: tip
+Practice coding instead of only watching tutorials.
+
+You: focus
+🎯 Keep your phone away and study for 25 minutes.
+Then take a short break and repeat.
+
+You: break
+Press Enter after taking a deep breath...
+Drink water and stretch for 2 minutes.
+Rest is also part of progress!
+
+You: bye
+Goodbye Shyambhavi!
+Keep learning python.
